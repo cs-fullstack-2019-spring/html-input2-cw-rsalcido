@@ -1,3 +1,6 @@
+### 1.5 POINT
+### Mostly correct but missing required setting for some fields 'First and Last name required, as well as checkbox for agreeing to the terms'. lastly, no comments
+
 # HTML Input 2 CW
 
 Duplicate the form depicted in the included image. Note the following:
